@@ -1,2 +1,2 @@
-# http://AntoniaDanieleAlves.github.io/index.html
+# http://AntoniaDanieleAlves.github.io
 Meu site pessoal
